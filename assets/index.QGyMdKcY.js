@@ -1,0 +1,1 @@
+import{_ as e,c as n,o}from"./entry.swuG0SIQ.js";const t={};function c(a,r){return o(),n("p",null,"This website will contain a list of Freely Available Computer Technology Standards.")}const s=e(t,[["render",c]]);export{s as default};
