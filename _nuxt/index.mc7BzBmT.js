@@ -1,1 +1,0 @@
-import{_ as e,c as n,o}from"./entry.95010ABY.js";const t={};function c(a,r){return o(),n("p",null,"This website will contain a list of Freely Available Computer Technology Standards.")}const s=e(t,[["render",c]]);export{s as default};
